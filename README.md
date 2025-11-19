@@ -9,6 +9,12 @@
 - Sonidos ambientales para focus
 - Interfaz moderna (modo claro/oscuro)
 
+## 📥 Descargar el proyecto
+
+[Descargar ZIP](https://github.com/AdZohh/focusly/archive/refs/heads/main.zip)
+
+**Nota:** Al descomprimir, la carpeta se llamará `focusly-main` - simplemente renómbrala a `Focusly`.
+
 ## 🔊 Sonidos Ambientales
 [Descargar pack de sonidos desde Google Drive](https://drive.google.com/file/d/18RrX1SxJzgU0En9Xd2hqXsH4Pj0xZ_QA/view?usp=drive_link)
 
@@ -29,5 +35,6 @@ pip install -r requirements.txt
 cd src/ui
 
 python run_app.py
+
 
 
