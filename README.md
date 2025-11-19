@@ -60,7 +60,7 @@
 2. Descomprime la carpeta `.venv` en la raíz del proyecto (junto a `src/` y `assets/`)
 3. Activa el entorno virtual en PowerShell:
    ```powershell
-   & .\.venv\Scripts\Activate.ps1"
+   & .\.venv\Scripts\Activate.ps1
 
 ## 📦 Instalación
 ```bash
@@ -73,6 +73,7 @@ pip install -r requirements.txt
 cd src/ui
 
 python run_app.py
+
 
 
 
