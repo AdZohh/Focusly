@@ -10,7 +10,7 @@
 - Interfaz moderna (modo claro/oscuro)
 
 ## 🔊 Sonidos Ambientales
-[Descargar pack de sonidos desde Google Drive]([https://drive.google.com/tu-link-aqui](https://drive.google.com/file/d/18RrX1SxJzgU0En9Xd2hqXsH4Pj0xZ_QA/view?usp=drive_link)
+[Descargar pack de sonidos desde Google Drive](https://drive.google.com/file/d/18RrX1SxJzgU0En9Xd2hqXsH4Pj0xZ_QA/view?usp=drive_link)
 
 **Instrucciones:**
 1. Descarga el ZIP desde el link de arriba
@@ -29,4 +29,5 @@ pip install -r requirements.txt
 cd src/ui
 
 python run_app.py
+
 
