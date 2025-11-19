@@ -9,6 +9,33 @@
 - Sonidos ambientales para focus
 - Interfaz moderna (modo claro/oscuro)
 
+## 🎯 Instrucciones de Uso
+
+### Primeros Pasos
+1. **Al abrir la aplicación**, establece la duración de tu sesión (ej: 25 min Pomodoro)
+2. **Haz click en "Start"** para iniciar el temporizador y el tracking
+3. **Selecciona sonidos ambientales** (opcional) para mejorar tu concentración
+
+### Sistema de Scoring en Tiempo Real
+- **La rueda de score** muestra tu nivel de concentración actual (100% = máximo focus)
+- **El score baja automáticamente** cuando detecta tiempo en apps distractoras
+- **Apps consideradas distractoras:** YouTube, WhatsApp, Instagram, TikTok, juegos, redes sociales
+- **Apps de productividad** no afectan tu score (VS Code, Word, Excel, etc.)
+
+### Alertas Inteligentes
+- **Recibirás notificaciones** cuando lleves mucho tiempo en apps distractoras
+- **Alertas de progreso** cada cierto tiempo mostrando tu score actual
+- **Recomendaciones** para volver a enfocarte
+
+### Finalizar Sesión
+- **Al terminar el temporizador** se guarda automáticamente tu sesión
+- **Ve a "Estadísticas"** para ver tu historial de productividad
+- **Consulta "Sesiones"** para detalles de cada sesión completada
+
+---
+
+**💡 Tip:** Mantén la app en segundo plano mientras trabajas - el tracking funciona automáticamente.
+
 ## 📥 Descargar el proyecto
 
 [Descargar ZIP](https://github.com/AdZohh/focusly/archive/refs/heads/main.zip)
@@ -46,6 +73,7 @@ pip install -r requirements.txt
 cd src/ui
 
 python run_app.py
+
 
 
 
